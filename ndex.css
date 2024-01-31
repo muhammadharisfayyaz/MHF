@@ -1,0 +1,584 @@
+header.header-custom {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+    margin-top: -14px;
+    background-color: #f4f3f1;
+}
+section {padding-top: -106px;margin-top: -3px;}
+
+.logo-area {
+    width: 20%;
+    float: left;
+    overflow: 264px;
+    padding: 16px;
+    margin-left: 93px;
+}
+
+.logo-area img {
+    width: 17%;
+}
+
+.heading {
+    width: 20%;
+    overflow: hidden;
+    float: left;
+    padding-left: -88px;
+    margin-left: -225px;
+}
+
+.menu-area {
+    width: 30%;
+    float: left;
+    overflow: hidden;
+    display: inline;
+    padding-left: 143px;
+}
+
+.menu-area ul li {
+    display: inline;
+    margin: 10px;
+}
+.menu-area li a{
+    text-decoration: none;
+    color: black;
+}
+
+.menu-area2 {
+    float: right;
+    overflow: hidden;
+    width: 30%;
+    margin-left: -120px;
+}
+
+.menu-area2 ul li {
+    display: inline;
+    margin: 15px;
+}
+
+.menu-area2 li a {
+    text-decoration: auto;
+    color: black;
+    font-size: 35px;
+}
+
+.banner {
+    width: 100%;
+    background-size: cover;
+    height: 900px;
+    margin-top: -62px;
+}
+
+.heading1 {
+
+    padding-top: 40px;
+    padding-bottom: 45px;    
+}
+
+.div-1 {
+    width: 23%;
+    float: left;
+    overflow: hidden;
+    background-color: gainsboro;
+    text-align: center;
+    margin-left: 95px;
+    line-height: 26px;
+    background-color-size: 20px 26px;
+    padding: 35px;
+}
+
+.div-2 {
+    float: left;
+    width: 23%;
+    overflow: hidden;
+    background-color: gainsboro;
+    text-align: center;
+    margin-left: 27px;
+    line-height: 26px;
+    padding: 35px;
+}
+
+.div-3 {
+    width: 23%;
+    float: right;
+    overflow: hidden;
+    background-color: gainsboro;
+    text-align: center;
+    margin-right: 53px;
+    line-height: 26px;
+    padding: 35px;
+}
+
+.picture {
+    width: 50%;
+    float: right;
+    overflow: hidden;
+    padding-top: 150px;
+    margin-right: 0px;
+}
+
+.about {
+    width: 50%;
+    overflow: hidden;
+    padding-top: 155px;
+}
+
+.picture img {
+    width: 70%;
+    margin-top: 30px;}
+
+hr {
+    width: 43%;
+    margin-right: 117px;
+    padding: -36px;
+}
+
+h2 {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    padding-left: 92px;
+}
+
+p {
+    justify-content: center;
+    display: flex;
+    padding-left: 3px;
+    line-height: -2px;
+    padding-top: -41px;
+    margin-top: -26px;
+    line-height: 35px;
+}
+
+section.\38 things {
+    margin-top: 200px;
+    padding-bottom: 150px;
+}
+
+.about h4 {
+    display: j;
+    display: flex;
+    padding-left: 265px;
+}
+.\38 1things {
+    padding-top: 150px;
+    width: 80%;
+    background-color: gainsboro;
+    margin-left: 153px;
+    padding-bottom: 120px;
+}
+
+section.\38 things {
+    width: 100%;
+}
+
+h1 {
+    display: flex;
+    justify-content:center;
+    font-size: 50px;}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+.picture-1 {
+    width: 50%;
+    float: left;
+    overflow: hidden;
+}
+
+.div-4 {
+    width: 50%;
+    float: right;
+    overflow: hidden;
+    padding-left: -184px;
+    padding-top: 20px;
+}
+
+section.\36 things {
+
+    margin-top: 820px;
+}
+
+.picture-1 img {
+    width: 80%;
+    margin-left: 100px;
+}
+
+.div-4 h1 {
+    padding-right: 210px;
+}
+
+.div-4 h6 {
+    width: -48px;
+    padding-left: 77px;
+    padding-bottom: -9px;
+    margin-top: -30px;
+    font-size: larger;
+}
+
+.div-4 p {
+    padding-left: -23px;
+    padding-right: 92px;
+    line-height: 27px;
+}
+input.button {
+    border: 2px solid #ff5722;
+    background-color: #fff;
+    padding: 15px 46px;
+    margin-left: 76px;
+    margin-top: 12px;
+}
+.div-5 {
+    width: 50%;
+    float: left;
+    overflow: hidden;
+    margin-top:-240px;
+}
+
+.div-6 {
+    width: 50%;
+    float: right;
+    overflow: hidden;
+    margin-top: -240px;
+}
+
+
+.div-5 h6 {
+    margin-top: -23px;
+    width: -54px;
+    padding-left: 161px;
+    margin-bottom: 41px;
+    font-size: larger;
+}
+
+.div-6 img {
+    width: 36%;
+    padding: 10px;
+    margin-top: 73px;
+}
+.div-5 input.button {
+    margin-left: 157px;
+    margin-top: 6px;
+}
+
+section.\35 things {
+    padding-top: 321px;
+}
+.div-18 {
+    width: 30%;
+    float: left;
+    overflow: hidden;
+    padding-left: -20px;
+    margin-left: 178px;
+}
+
+.div-19 {width: 30%;float: left;overflow: hidden;margin-left: -47px;padding-left: -34px;}
+
+.div-20 {
+    width: 30%;
+    float: right;
+    overflow: hidden;
+    padding-left: -53px;
+    padding: 126px 42px 41px -59px;
+    margin-right: 48px;
+    margin-top: -484px;
+}
+
+.div-18 img {
+    width: 80%;
+}
+
+.div-19 img {
+    width: 80%;
+   
+}
+
+.div-20 img {
+    width: 80%;
+    
+}
+
+section.\34 things {
+    margin-top: 739px;
+}
+.div-12 {
+    width: 30%;
+    float: left;
+    overflow: hidden;
+    padding-left: -20px;
+    margin-left: 178px;
+    margin-bottom: 20px;
+}
+
+.div-13 {width: 30%;float: left;overflow: hidden;margin-left: -47px;padding-left: -34px;
+padding-bottom: 20px;}
+
+.div-14 {
+    width: 30%;
+    float: right;
+    overflow: hidden;
+    padding-left: -53px;
+    padding: 126px 42px 41px -59px;
+    margin-right: 48px;
+    margin-top: -505px;
+
+}
+.div-12 img {
+    width: 80%;
+}
+
+.div-13 img {
+    width: 80%;
+   
+}
+
+.div-14 img {
+    width: 80%;
+    
+}
+.div-15 {
+    width: 30%;
+    float: left;
+    overflow: hidden;
+    padding-left: -20px;
+    margin-left: 178px;
+}
+
+.div-16 {width: 30%;float: left;overflow: hidden;margin-left: -47px;padding-left: -34px;}
+
+.div-17 {
+    width: 30%;
+    float: right;
+    overflow: hidden;
+    padding-left: -53px;
+    padding: 126px 42px 41px -59px;
+    margin-right: 48px;
+    margin-top: -484px;
+}
+.div-15 img {
+    width: 80%;
+}
+
+.div-16 img {
+    width: 80%;
+   
+}
+
+.div-17 img {
+    width: 80%;
+    
+}
+section.\38 pics {
+    margin-top: 1150px;
+}
+
+.div-21 {
+    width: 12px;
+    float: left;
+    margin-left: 164px;
+   
+}
+.div-22 {
+    width: 12px;
+    float: left;
+    
+    padding-left: 97px;
+}
+
+.div-23 {
+    width: 12px;
+    float: left;
+    padding-left: 99px;
+}
+
+.div-24 {width: 12px;float: left;padding-left: 99px;}
+
+.div-25 {
+    width: 12px;
+    float: left;
+    margin-left: 98px;
+}
+
+.div-26 {
+    width: 12px;
+    float: left;
+    padding-left: 100px;
+}
+
+.div-27 {
+    width: 12px;
+    float: left;
+    padding-left: 87px;
+}
+
+.div-28 {
+    width: 12px;
+    float: right;
+    padding-right: 403px;
+}
+
+.div-21 img{
+    width:800%;
+}
+
+.div-22 img{
+    width:800%;
+}
+
+.div-23 img{
+    width:800%;
+}
+
+.div-24 img{
+    width:800%;
+}
+
+.div-25 img{
+    width:800%;
+}
+
+.div-26 img{
+    width:800%;
+}
+
+.div-27 img{
+    width:800%;
+}
+
+.div-28 img{
+    width:800%;
+}
+
+
+
+section.ok {
+    padding-top: 246px;
+}
+.contact-information {
+    width: 50%;
+    float: left;
+    overflow: hidden;
+}
+
+.contact-information h1 {
+    font-size: 34px;
+}
+
+.contact-information ul {
+    padding-left: 114px;
+    line-height: 10px;
+    display: block;
+}
+
+footer {
+    MARGIN-TOP: 250px;
+
+}
+
+.foot-1 {
+    width: 25%;
+    float: left;
+}
+
+
+.foot-2 {
+    width: 25%;
+    float: left;
+    overflow: hidden;
+    color:#fff;
+    
+}
+
+
+.foot-3 {
+    width: 25%;
+    float: left;
+    overflow: hidden;
+    color:#fff;
+}
+
+.foot-4 {
+    width: 25%;
+    float: right;
+    overflow: hidden;
+}
+
+
+
+
+.banner h1 {
+    margin-left: -685px;
+    padding-top: 207px;
+    letter-spacing: 8px;
+}
+
+.banner p {
+    margin-left: -675px;
+}
+
+.banner input.button {
+
+    margin-top: 12px;
+    margin-left: 137px;
+    background-color: transparent;
+}
+
+.banner p {
+    margin-left: -667px;
+    letter-spacing: 2px;
+}
+
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+.div-5 p {
+    padding-left: 77px;
+}
+
+.contact-form {
+    margin-top: 20px;
+}
+
+form {
+    width: 50%;
+    float: right;
+    overflow: hidden;
+    border: -4px solid;
+}
+
+input[type="text"] {
+    padding: 24px;
+}
+
+textarea {
+    width: 59%;
+    padding: 21px;
+    padding-left: -26px;
+    margin-left: -164px;
+}
+
+input[type="submit"] {
+    float: left;
+    margin-top: 93px;
+    padding: 16px 27px;
+    border: 2px solid #ff5722;
+    background-color: #fff;
+}
+
+.foot-2 li a {
+    color: #000;
+    text-decoration: none;
+    line-height: 34px;
+}
+
+.foot-3 li a {
+    color: #000;
+    text-decoration: none;
+    line-height: 34px;
+}
